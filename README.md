@@ -1,4 +1,4 @@
-Project Name : ManagedCare ReduxStore
+Project Name : Meta_Name
 
 Built Using : Redux-Toolkit
 
