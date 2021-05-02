@@ -1,3 +1,5 @@
+set -x
+
 echo "install npm"
 
 # pwd
