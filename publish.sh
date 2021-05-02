@@ -8,7 +8,7 @@ echo "install npm"
 
 npm install
 
-npm run build
+npm version patch
 
 npm run build
 
