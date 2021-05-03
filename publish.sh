@@ -10,6 +10,10 @@ echo "install npm"
 
 npm install
 
+git add .
+
+git commit -m "new changes"
+
 npm version patch
 
 npm run build
